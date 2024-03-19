@@ -1,0 +1,6 @@
+business_unit           = "data-analytics"
+environment             = "prod"
+resource_group_name     = "rg-etdata-run"
+resource_group_location = "eastus"
+virtual_network_name    = "vnet-etdata-run"
+subnet_name             = "subnet-connection"
